@@ -1,6 +1,6 @@
 # covid-hospital
 
-<img src = "screen/app_photo">
+<img src = "screen/app_photo.jpg">
 
 This app is built on android studios using java
 
